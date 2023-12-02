@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Ranja</h1>
+<h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 <img align="right" alt="api" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
